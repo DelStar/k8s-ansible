@@ -1,7 +1,7 @@
 
 
 ## **Project: Infrastructure Automation Using Terraform and Ansible With Dynamic Inventory to configure a Kubernetes Cluster**
-## Terraform, Ansible Installation And Setup In AWS EC2 Redhat Instnace.
+## Terraform & Ansible Installation And Setup In AWS EC2 Redhat Instnace.
 ##### Prerequisite
 + AWS Acccount.
 + Create Redhat EC2 Instnace.
